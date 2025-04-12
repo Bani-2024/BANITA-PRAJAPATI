@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Banita Prajapati - Resume</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f8f9fa;
+    }
+    header {
+      background-color: #003049;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      background-color: #d62828;
+      padding: 10px;
+      text-align: center;
+    }
+    nav a {
+      margin: 0 15px;
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .container {
+      display: flex;
+      padding: 20px;
+    }
+    .main {
+      flex: 3;
+      padding: 20px;
+    }
+    .side {
+      flex: 1;
+      padding: 20px;
+      background-color: #e9ecef;
+    }
+    footer {
+      background-color: #003049;
+      color: white;
+      text-align: center;
+      padding: 10px;
+    }
+    h2, h3 {
+      color: #343a40;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Banita Prajapati</h1>
+    <p>IIMBx Student | Steel Plant Employee | Mechanical Fitter Background</p>
+  </header>
+
+  <nav>
+    <a href="#about">About</a>
+    <a href="#education">Education</a>
+    <a href="#experience">Experience</a>
+    <a href="#skills">Skills</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <div class="container">
+    <div class="main">
+      <h2 id="about">About Me</h2>
+      <p>Hello! I'm Banita Prajapati, currently pursuing my 1st term at IIMBx. I have a background in mechanical fitting and work in a steel plant.</p>
+
+      <h2 id="education">Education</h2>
+      <ul>
+        <li>10th – Odisha Board – Secured 94%</li>
+        <li>12th Science – NIOS Board – Secured 81%</li>
+        <li>Currently studying at IIMBx – 1st Term</li>
+      </ul>
+
+      <h2 id="experience">Experience</h2>
+      <ul>
+        <li>Apprenticeship at Tata Steel – Mechanical Fitter</li>
+        <li>Currently employed at a Steel Plant</li>
+      </ul>
+    </div>
+
+    <div class="side">
+      <h3 id="skills">Skills</h3>
+      <ul>
+        <li>HTML</li>
+        <li>Management</li>
+      </ul>
+
+      <h3 id="contact">Contact</h3>
+      <p>Email: banita@example.com</p>
+      <p>Phone: +91-XXXXXXXXXX</p>
+    </div>
+  </div>
+
+  <footer>
+    <p>&copy; 2025 Banita Prajapati. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
