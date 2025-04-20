@@ -69,13 +69,14 @@
   <div class="container">
     <div class="main">
       <h2 id="about">About Me</h2>
-      <p>Hello! I'm Banita Prajapati, currently pursuing my 1st term at IIMBx. I have a background in mechanical fitting and work in a steel plant.</p>
+      <p>Hello! I'm Banita Prajapati. I have a background in mechanical fitting and work in a steel plant.Aspiring business professional currently pursuing a BBA in DBE program from IIMBx, with a strong academic background and a passion for leadership, management, and creativity. Looking forward to gaining practical experience and contributing effectively to dynamic environments.
+</p>
 
       <h2 id="education">Education</h2>
       <ul>
-        <li>10th – Odisha Board – Secured 94%</li>
-        <li>12th Science – NIOS Board – Secured 81%</li>
-        <li>Currently studying at IIMBx – 1st Term</li>
+        <li>10th – Odisha Board – Secured 94%-SARASWATI SISU VIDYA MANDIR(completed)</li>
+        <li>12th Science – NIOS Board – Secured 81%(completed)</li>
+        <li>Currently studying at IIMBx – 1st Term(ongoing)</li>
       </ul>
 
       <h2 id="experience">Experience</h2>
@@ -88,8 +89,14 @@
     <div class="side">
       <h3 id="skills">Skills</h3>
       <ul>
-        <li>HTML</li>
-        <li>Management</li>
+        <li>HTML</li><li>Teamwork and collaboration</li><li>Time management</li><li>Problem solving</li><li>Adaptability and quick learning</li>
+        <li>Leadership Skill</li><li>Communication Skill</li><li>Management skill</li>
+      </ul>
+
+      <h3 id="Hobbies">Hobbies</h3>
+      <ul>
+        <li>Gardening</li><li>Cooking</li><li>Singing</li><li>Creative writing</li><li>Event planning </li>
+        
       </ul>
 
       <h3 id="contact">Contact</h3>
